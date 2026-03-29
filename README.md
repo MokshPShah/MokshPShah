@@ -68,12 +68,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MokshPShah/MokshPShah/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/MokshPShah/MokshPShah/output/dist/pacman-contribution-graph-dark.svg">
