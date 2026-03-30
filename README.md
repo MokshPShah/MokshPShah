@@ -68,6 +68,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mokshpshah/mokshpshah/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MokshPShah/MokshPShah/output/github-snake.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/MokshPShah/MokshPShah/output/github-snake-dark.svg#gh-dark-mode-only">
+</p>
 
 ###
