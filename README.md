@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MokshPShah&theme=dracula&v=1" height="150" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MokshPShah&theme=dracula&v=1" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshPShah&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
